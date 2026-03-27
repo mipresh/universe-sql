@@ -1,8 +1,6 @@
-Here’s a clean, portfolio-ready **README.md** for your **Universe SQL project (freeCodeCamp)** 👇
 
----
 
-# 🌌 Universe Database (SQL) – freeCodeCamp Project
+#  Universe Database (SQL) – freeCodeCamp Project
 
 This project is a relational database built as part of the **freeCodeCamp Relational Database Certification**. It models a simplified universe containing galaxies, stars, planets, and moons, demonstrating strong SQL fundamentals and database design principles.
 
