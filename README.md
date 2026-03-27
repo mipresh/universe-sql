@@ -187,6 +187,3 @@ This project is open-source and available under the **MIT License**.
 Built by **mipresh
 On my journey to becoming a full-stack developer
 
----
-
-If you want, I can **make this README stand out more** (add badges, GitHub stats, or make it match your portfolio style like Bella-style and SaaS dashboard).
